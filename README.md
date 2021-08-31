@@ -1,6 +1,6 @@
 # chatapp
 
-##Usage
+## Usage
 ```
 git cone https://github.com/DivyaKandpal/chatapp.git
 npm install
